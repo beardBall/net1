@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/connection.cpp.o -c /Users/waqar/dev/cpp/net1/src/connection.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/connection.cpp",
+  "output": "CMakeFiles/net1.dir/src/connection.cpp.o"
+},
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/connection_manager.cpp.o -c /Users/waqar/dev/cpp/net1/src/connection_manager.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/connection_manager.cpp",
+  "output": "CMakeFiles/net1.dir/src/connection_manager.cpp.o"
+},
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/main.cpp.o -c /Users/waqar/dev/cpp/net1/src/main.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/main.cpp",
+  "output": "CMakeFiles/net1.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/mime_types.cpp.o -c /Users/waqar/dev/cpp/net1/src/mime_types.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/mime_types.cpp",
+  "output": "CMakeFiles/net1.dir/src/mime_types.cpp.o"
+},
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/reply.cpp.o -c /Users/waqar/dev/cpp/net1/src/reply.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/reply.cpp",
+  "output": "CMakeFiles/net1.dir/src/reply.cpp.o"
+},
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/request_handler.cpp.o -c /Users/waqar/dev/cpp/net1/src/request_handler.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/request_handler.cpp",
+  "output": "CMakeFiles/net1.dir/src/request_handler.cpp.o"
+},
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/request_parser.cpp.o -c /Users/waqar/dev/cpp/net1/src/request_parser.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/request_parser.cpp",
+  "output": "CMakeFiles/net1.dir/src/request_parser.cpp.o"
+},
+{
+  "directory": "/Users/waqar/dev/cpp/net1/.build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/waqar/dev/cpp/net1/src/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/net1.dir/src/server.cpp.o -c /Users/waqar/dev/cpp/net1/src/server.cpp",
+  "file": "/Users/waqar/dev/cpp/net1/src/server.cpp",
+  "output": "CMakeFiles/net1.dir/src/server.cpp.o"
+}
+]
